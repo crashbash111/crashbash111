@@ -4,7 +4,7 @@ I'm Josh. I'm a full-stack developer, a game developer and an Android app maker 
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,tailwind,laravel,cs,kotlin,python,java,kotlin,dotnet,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,tailwind,laravel,cs,php,kotlin,python,java,kotlin,dotnet,nodejs)](https://skillicons.dev)
 
 ### IDEs/Platforms
 

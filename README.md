@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Josh. I'm a full-stack developer, a game developer and an Android app maker based in New Zealand. My full-time job is teaching these subjects in tertiary education.
+I'm Josh. I'm a full-stack developer, a game developer and an Android app maker based in New Zealand. My full-time job is teaching IT in tertiary education.
 
 ### Languages
 

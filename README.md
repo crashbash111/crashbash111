@@ -4,11 +4,11 @@ I'm Josh. I'm a full-stack web developer based in New Zealand, who loves making 
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,tailwind,laravel,cs,php,kotlin,python,java)](https://skillicons.dev)
+[![Languages/Frameworks](https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,tailwind,laravel,cs,php,kotlin,python,java)](https://skillicons.dev)
 
 ### IDEs/Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=unity,godot,blender,vscode,visualstudio,androidstudio,azure,docker,electron,flutter,nodejs,dotnet)](https://skillicons.dev)
+[![IDEs/Platforms](https://skillicons.dev/icons?i=unity,godot,blender,vscode,visualstudio,androidstudio,azure,docker,electron,flutter,nodejs,vite,dotnet,raspberrypi)](https://skillicons.dev)
 
 
 <!--
